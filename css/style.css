@@ -1787,7 +1787,7 @@ body.modal{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	background-image: url(..//img/portfolio/zainab-img.jpg);
+	background-image: url(..//img/portfolio/zainab.png);
 }
 .grax_tm_hero .ripple:before{
 	position: absolute;
@@ -2379,7 +2379,7 @@ body.dark .grax_tm_settings .cursor li .svg,
 .grax_tm_hero .bg .image {
     width: 100%;
     height: 100vh; /* 50% se 100vh karein */
-    background-image: url('../img/portfolio/zainab-img.jpg') !important;
+    background-image: url('../img/portfolio/zainab.png') !important;
     background-size: cover !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
